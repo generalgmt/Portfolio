@@ -1,0 +1,12 @@
+#scroll_msg{
+	position: absolute;
+	width: 30%;
+	color: maroon;
+	height: 10%;
+	left: 370px;
+	top: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: verdana;
+	/*background-color: #888;*/
+}
